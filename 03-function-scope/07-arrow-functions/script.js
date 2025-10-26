@@ -29,4 +29,5 @@ console.log(createObj());
 
 const numbers = [1,2,3,4,5];
 
+// Arrow function in a callback
 numbers.forEach(n => console.log(n));
